@@ -6,6 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20akaboshinit;Hello%20I'm%20akaboshinit;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
+
 </div>
 
 <p>👀 I’m interested in Golang Flutter</p>
@@ -14,7 +15,10 @@
 [![Visits Badge](https://badges.pufler.dev/visits/akaboshinit/akaboshinit)](https://badges.pufler.dev)
 </div>
 
+<div align="center">
+
 ## 📊 Status
+</div>
 
 <div align="center">
   <a src="https://github.com/anuraghazra/github-readme-stats">
@@ -22,7 +26,10 @@
   </a>
 </div>
 
+<div align="center">
+
 ## 🔥 Streak Stats
+</div>
 
 <div align="center">
 <!--   <div style="display: flex; align-items: flex-start;"> -->
@@ -35,7 +42,11 @@
 <!--   </div> -->
 </div>
 
+<div align="center">
+
 ## 🖋 Use Lang
+</div>
+
 <div align="center">
   <a src="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaboshinit&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=666666"/>
