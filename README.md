@@ -1,3 +1,8 @@
+## 💁‍♂️ Profile
+
+- 👋 Hi, I’m @akaboshinit
+- 👀 I’m interested in golang Flutter
+- 🌱 I’m currently learning Next.js Flutter Golang
 
 ## 📊 Status
 
@@ -8,20 +13,18 @@
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=akaboshinit&theme=highcontrast" />
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaboshinit&theme=solarized_dark)
 
 ## 🖋 Use Lang
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaboshinit&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=666666" />
 
-## 💁‍♂️ Profile
+---
+<details>
+<summary>💪 Github Cards Powered by</summary>
 
-- 👋 Hi, I’m @akaboshinit
-- 👀 I’m interested in golang Flutter
-- 🌱 I’m currently learning Next.js Flutter Golang
-
-___
-
-#### Github Cards Powered by
-- 📊 Status : https://github.com/anuraghazra/github-readme-stats
-- 🔥 Streak Stats : https://git.io/streak-stats
-- 🖋 Use Lang : https://github.com/anuraghazra/github-readme-stats
+- https://github.com/anuraghazra/github-readme-stats
+- https://git.io/streak-stats
+- https://github.com/vn7n24fzkq/github-profile-summary-cards
+- https://github.com/anuraghazra/github-readme-stats
+</details>
