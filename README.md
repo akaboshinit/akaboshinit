@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 📊 Status
+# 📊📊📊 Status 📊📊📊
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## 🔥 Streak Stats
+# 🔥🔥🔥 Streak Stats 🔥🔥🔥
 </div>
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-## 🖋 Use Lang
+## 🖋🖋🖋 Use Lang 🖋🖋🖋
 </div>
 
 <div align="center">
