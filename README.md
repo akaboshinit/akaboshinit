@@ -42,6 +42,10 @@
   </a>
 <?div>
 
-<!-- <details>
+<!-- 
+<details>
 <summary>💪 Github Cards Powered by</summary>
-</details> -->
+</details>
+
+https://zzetao.github.io/awesome-github-profile/
+-->
