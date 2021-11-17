@@ -1,30 +1,47 @@
-## 💁‍♂️ Profile
+<div align="center">
 
-- 👋 Hi, I’m @akaboshinit
-- 👀 I’m interested in golang Flutter
-- 🌱 I’m currently learning Next.js Flutter Golang
+# <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">  Profile  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20akaboshinit;Hello%20I'm%20akaboshinit;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  </a>
+</div>
+
+<p>👀 I’m interested in Golang Flutter</p>
+<p>🌱 I’m currently learning Next.js Flutter Golang</p>
+
+[![Visits Badge](https://badges.pufler.dev/visits/akaboshinit/akaboshinit)](https://badges.pufler.dev)
+</div>
 
 ## 📊 Status
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akaboshinit&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=cccccc&border_color=666666" />
-
+<div align="center">
+  <a src="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=akaboshinit&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=cccccc&border_color=666666"/>
+  </a>
+</div>
 
 ## 🔥 Streak Stats
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=akaboshinit&theme=highcontrast" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaboshinit&theme=solarized_dark)
+<div align="center">
+<!--   <div style="display: flex; align-items: flex-start;"> -->
+    <a src="https://git.io/streak-stats">
+      <img height="150" src="http://github-readme-streak-stats.herokuapp.com?user=akaboshinit&theme=highcontrast"/>
+    </a>
+    <a src="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaboshinit&theme=solarized_dark"/>
+    </a>
+<!--   </div> -->
+</div>
 
 ## 🖋 Use Lang
+<div align="center">
+  <a src="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaboshinit&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=666666"/>
+  </a>
+<?div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaboshinit&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=666666" />
-
----
-<details>
+<!-- <details>
 <summary>💪 Github Cards Powered by</summary>
-
-- https://github.com/anuraghazra/github-readme-stats
-- https://git.io/streak-stats
-- https://github.com/vn7n24fzkq/github-profile-summary-cards
-- https://github.com/anuraghazra/github-readme-stats
-</details>
+</details> -->
