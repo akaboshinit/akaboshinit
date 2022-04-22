@@ -12,8 +12,6 @@
 <p>👀 I’m interested in Golang Flutter</p>
 <p>🌱 I’m currently learning Next.js Flutter Golang</p>
 
-<p>ちなみに女絡みいらん</p>
-
 [![Visits Badge](https://badges.pufler.dev/visits/akaboshinit/akaboshinit)](https://badges.pufler.dev)
 </div>
 
