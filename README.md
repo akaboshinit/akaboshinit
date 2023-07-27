@@ -9,12 +9,13 @@
 
 </div>
 
-<p>👀 I’m interested in Golang Flutter</p>
-<p>🌱 I’m currently learning Next.js Flutter Golang</p>
+<!--   <p>👀 I’m interested in Golang Flutter</p> -->
+<!--   <p>🌱 I’m currently learning Next.js Flutter Golang</p> -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/akaboshinit/akaboshinit)](https://badges.pufler.dev)
 </div>
 
+<!--  
 <div align="center">
 
 # 📊📊📊 Status 📊📊📊
@@ -25,7 +26,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=akaboshinit&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=cccccc&border_color=666666"/>
   </a>
 </div>
-
+ -->
+ 
 <div align="center">
 
 # 🔥🔥🔥 Streak Stats 🔥🔥🔥
