@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20akaboshinit;Hello%20I'm%20akaboshinit;&font=Fira%20Code&center=true&width=440&height=45&color=748E63&vCenter=true&size=22">
     <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=400&duration=5000&pause=1000&color=748E63&center=true&vCenter=true&multiline=false&random=false&width=800&height=100&separator=%3C&lines=console.log(Profile)%3Cconst+likeProgrammingLanguages+%3D+%5B%22Dart%22%2C%22TypeScript%22%5D;%3Cconst+likeProgrammingFramework+%3D+%5B%22Flutter%22%2C%22Next.js%22%5D;"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=400&color=748E63&center=true&vCenter=true&multiline=true&random=true&width=800&height=100&separator=%3C&lines=console.log(Profile)%3Cconst+likeProgrammingLanguages+%3D+%5B%22Dart%22%2C%22TypeScript%22%5D;%3Cconst+likeProgrammingFramework+%3D+%5B%22Flutter%22%2C%22Next.js%22%5D;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=400&color=748E63&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&separator=%3C&lines=console.log(Profile)%3Cconst+likeProgrammingLanguages+%3D+%5B%22Dart%22%2C%22TypeScript%22%5D;%3Cconst+likeProgrammingFramework+%3D+%5B%22Flutter%22%2C%22Next.js%22%5D;">
   </a>
 
 </div>
